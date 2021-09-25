@@ -16,7 +16,7 @@ public class HelloServlet extends HttpServlet {
         resp.setContentType("text/html;charset=gbk");
 
         PrintWriter writer = resp.getWriter();
-        writer.print("你好，， nihao,,,servlet ..... ");
+        writer.print("你好，， nihao,,,servlet .....RRRRRRRR ");
     }
 
     @Override
